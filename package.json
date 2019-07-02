@@ -1,6 +1,9 @@
 {
   "name": "notes",
   "version": "0.1.0",
+  "engines": {
+    "node": "10.15.3"
+  },
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.4.5",
